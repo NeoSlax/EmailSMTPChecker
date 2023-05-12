@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmailSMTPChecker</string>
+    <string name="enter_email">Enter email</string>
+    <string name="check_email">check email</string>
+</resources>
